@@ -1,0 +1,4 @@
+# B is an initial fact but a rule forces it false
+A => !B
+=AB
+?B

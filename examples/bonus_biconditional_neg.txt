@@ -1,0 +1,4 @@
+# Biconditional with negation: A and B <=> not C  -> C is false
+A + B <=> !C
+=AB
+?C

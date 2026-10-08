@@ -1,0 +1,4 @@
+# XOR is true when exactly one operand is true
+A ^ B => C
+=A
+?C

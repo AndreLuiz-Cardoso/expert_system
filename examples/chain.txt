@@ -1,0 +1,6 @@
+# Backward chaining must follow a multi-step chain
+A => B
+B => C
+C => D
+=A
+?D

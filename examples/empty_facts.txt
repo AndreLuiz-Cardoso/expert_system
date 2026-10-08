@@ -1,0 +1,4 @@
+# A lone '=' is valid: no initial facts are true
+A | B => C
+=
+?C

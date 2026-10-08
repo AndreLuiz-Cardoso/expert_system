@@ -1,0 +1,4 @@
+# Negation in a premise: A and not B
+A + !B => C
+=A
+?C

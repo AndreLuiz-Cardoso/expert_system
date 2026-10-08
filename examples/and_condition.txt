@@ -1,0 +1,4 @@
+# AND condition: both A and B required for C
+A + B => C
+=AB
+?C

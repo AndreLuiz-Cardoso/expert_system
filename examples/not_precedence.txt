@@ -1,0 +1,4 @@
+# NOT binds tighter than +, so this is (!A) + B
+!A + B => C
+=B
+?C

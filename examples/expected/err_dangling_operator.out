@@ -1,0 +1,3 @@
+error: Syntax error (line 2, col 5): expected a fact or '(' here
+    A + => B
+        ^

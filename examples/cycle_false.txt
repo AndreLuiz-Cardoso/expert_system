@@ -1,0 +1,5 @@
+# Cyclic rules with no initial facts -> least fixpoint: both false
+A => B
+B => A
+=
+?AB

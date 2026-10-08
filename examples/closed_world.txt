@@ -1,0 +1,4 @@
+# Closed-world: with no initial facts, B cannot be proven -> false
+A => B
+=
+?B

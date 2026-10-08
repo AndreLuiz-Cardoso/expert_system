@@ -1,0 +1,5 @@
+# two rules derive X and !X
+A => X
+B => !X
+=AB
+?X

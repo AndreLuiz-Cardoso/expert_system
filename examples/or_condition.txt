@@ -1,0 +1,4 @@
+# OR condition: A or B is enough for C
+A | B => C
+=A
+?C

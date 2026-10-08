@@ -1,0 +1,1 @@
+error: Contradiction: C is forced true by rule 'A | B => C' (line 7) but false by rule 'A + B <=> !C' (line 15)

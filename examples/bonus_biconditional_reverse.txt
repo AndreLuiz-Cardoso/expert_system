@@ -1,0 +1,4 @@
+# Biconditional backward: C implies A and B
+A + B <=> C
+=C
+?AB

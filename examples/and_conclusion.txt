@@ -1,0 +1,4 @@
+# AND in a conclusion asserts both facts
+A => B + C
+=A
+?BC

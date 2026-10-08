@@ -1,0 +1,3 @@
+# the query line is missing
+A => B
+=A

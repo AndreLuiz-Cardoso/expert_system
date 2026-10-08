@@ -1,0 +1,4 @@
+# a rule line must contain => or <=>
+A + B
+=A
+?A

@@ -1,0 +1,5 @@
+# OR in conclusion is ambiguous: B and C undetermined, so is downstream D
+A => B | C
+B => D
+=A
+?BCD

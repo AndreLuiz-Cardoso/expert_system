@@ -1,0 +1,4 @@
+# Biconditional forward: A and B imply C
+A + B <=> C
+=AB
+?C

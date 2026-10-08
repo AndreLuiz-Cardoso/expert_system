@@ -1,0 +1,4 @@
+# the query line has no facts
+A => B
+=A
+?

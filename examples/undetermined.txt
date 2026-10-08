@@ -1,0 +1,4 @@
+# The subject's ambiguity example: A true, A => B | C -> B,C undetermined
+A => B | C
+=A
+?BC

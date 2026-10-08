@@ -1,0 +1,1 @@
+error: Contradiction: B is forced true by the initial facts but false by rule 'A => !B' (line 2)

@@ -1,0 +1,4 @@
+# XOR in conclusion is ambiguous too
+A => B ^ C
+=A
+?BC

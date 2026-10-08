@@ -1,0 +1,4 @@
+# Parentheses override precedence: A AND (B OR C)
+A + (B | C) => D
+=AC
+?D

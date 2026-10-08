@@ -1,0 +1,3 @@
+# the initial-facts line is missing
+A => B
+?B

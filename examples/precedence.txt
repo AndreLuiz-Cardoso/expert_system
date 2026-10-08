@@ -1,0 +1,4 @@
+# Precedence +>|>^  parses as ((A + B) | C) ^ D
+A + B | C ^ D => Z
+=AB
+?Z

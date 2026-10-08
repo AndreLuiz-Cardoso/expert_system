@@ -1,0 +1,5 @@
+# Undetermined operands poison a XOR premise -> D undetermined
+A => B | C
+B ^ C => D
+=A
+?D

@@ -1,0 +1,4 @@
+# a rule may contain only one implication
+A => B => C
+=A
+?C

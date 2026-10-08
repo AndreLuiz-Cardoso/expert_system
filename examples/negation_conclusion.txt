@@ -1,0 +1,4 @@
+# Negation in a conclusion forces the fact FALSE
+A => !B
+=A
+?B

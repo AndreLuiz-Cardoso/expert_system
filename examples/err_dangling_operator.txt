@@ -1,0 +1,4 @@
+# '+' with no right operand
+A + => B
+=A
+?B

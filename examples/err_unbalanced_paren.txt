@@ -1,0 +1,4 @@
+# missing closing parenthesis
+A + (B | C => D
+=A
+?D

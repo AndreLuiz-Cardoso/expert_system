@@ -1,0 +1,5 @@
+# Two rules conclude the same fact X; either one suffices
+A => X
+B => X
+=B
+?X

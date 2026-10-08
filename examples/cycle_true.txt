@@ -1,0 +1,5 @@
+# Same cycle but A is given -> B becomes true, terminates
+A => B
+B => A
+=A
+?B

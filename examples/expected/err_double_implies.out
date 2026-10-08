@@ -1,0 +1,3 @@
+error: Syntax error (line 2, col 8): a rule may contain only one '=>' or '<=>'
+    A => B => C
+           ^
